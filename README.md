@@ -1,2 +1,9 @@
-# python-calculator
-My first Python calculator project .Simple calculator built using Python
+# Python Calculator
+
+My first Python project.
+
+Features:
+- Add
+- Subtract
+- Multiply
+- Divide
